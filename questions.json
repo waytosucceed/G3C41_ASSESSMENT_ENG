@@ -1,0 +1,1059 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "Simple Present and Present Continuous",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence uses the simple present tense?",
+          "options": [
+            {
+              "text": "I am eating an apple."
+            },
+            {
+              "text": "I eat an apple every day."
+            },
+            {
+              "text": "I will eat an apple tomorrow."
+            },
+            {
+              "text": "I ate an apple yesterday."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses the simple present tense. We use this tense to talk about things that happen regularly or are always true. The action \"eat\" happens every day, so it's a regular habit."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the sentence in the present continuous tense:",
+          "options": [
+            {
+              "text": "The dog barks loudly."
+            },
+            {
+              "text": "The dog barked loudly."
+            },
+            {
+              "text": "The dog is barking loudly."
+            },
+            {
+              "text": "The dog will bark loudly."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses the present continuous tense. We use this tense to talk about actions happening right now. The phrase \"is barking\" shows the action is happening at this moment."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence is in simple present tense?",
+          "options": [
+            {
+              "text": "She is singing a song."
+            },
+            {
+              "text": "She sang a song."
+            },
+            {
+              "text": "She sings in the choir."
+            },
+            {
+              "text": "She will sing tomorrow."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses the simple present tense. It tells us about something she does regularly (singing in the choir), not just right now."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank with the correct present continuous form: 'Look! The children _____ in the park.'",
+          "options": [
+            {
+              "text": "play"
+            },
+            {
+              "text": "are playing"
+            },
+            {
+              "text": "plays"
+            },
+            {
+              "text": "is playing"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Are playing\" is the correct present continuous form. It shows the action is happening right now. We use \"are\" with \"children\" because it's plural."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which sentence is NOT in simple present tense?",
+          "options": [
+            {
+              "text": "He plays football every weekend."
+            },
+            {
+              "text": "She reads a book every night."
+            },
+            {
+              "text": "The Earth rotates around the Sun."
+            },
+            {
+              "text": "They are watching TV now."
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses present continuous tense (\"are watching\"), not simple present. The other sentences use the simple present to describe regular actions or facts."
+        }
+      ]
+    },
+    {
+      "heading": "Simple Past and Past Continuous",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "Which sentence uses the simple past tense?",
+          "options": [
+            {
+              "text": "I was eating dinner when you called."
+            },
+            {
+              "text": "I ate dinner at 7 PM yesterday."
+            },
+            {
+              "text": "I am eating dinner now."
+            },
+            {
+              "text": "I will eat dinner later."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses simple past tense. \"Ate\" is the past form of \"eat\" and it tells us about a completed action in the past."
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the sentence in past continuous tense:",
+          "options": [
+            {
+              "text": "The baby cried all night."
+            },
+            {
+              "text": "The baby will cry if he's hungry."
+            },
+            {
+              "text": "The baby cries every night."
+            },
+            {
+              "text": "The baby was crying when I got home."
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses past continuous tense. \"Was crying\" shows an action that was ongoing in the past when another action (getting home) happened."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence is in simple past tense?",
+          "options": [
+            {
+              "text": "She was cooking dinner."
+            },
+            {
+              "text": "She is cooking dinner."
+            },
+            {
+              "text": "She cooked dinner last night."
+            },
+            {
+              "text": "She cooks dinner every day."
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Cooked\" is the past form of \"cook,\" and \"last night\" shows it happened in the past."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank with the correct past continuous form: 'While I _____ my homework, my sister watched TV.'",
+          "options": [
+            {
+              "text": "did"
+            },
+            {
+              "text": "was doing"
+            },
+            {
+              "text": "were doing"
+            },
+            {
+              "text": "am doing"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Was doing\" is the correct past continuous form. It shows an action that was ongoing in the past while another action (sister watching TV) happened."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank with the correct past continuous tense: 'The birds _____ loudly while I was trying to sleep.'",
+          "options": [
+            {
+              "text": "were singing"
+            },
+            {
+              "text": "was singing"
+            },
+            {
+              "text": "sang"
+            },
+            {
+              "text": "sing"
+            }
+          ],
+          "answer": 0,
+          "explanation": "We use past continuous to describe an ongoing action in the past. It's formed with \"were\" (for plural subjects) + the \"-ing\" form of the verb."
+        }
+      ]
+    },
+    {
+      "heading": "Simple Future and Future Continuous",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Which sentence uses the simple future tense?",
+          "options": [
+            {
+              "text": "I am going to the park tomorrow."
+            },
+            {
+              "text": "I will go to the park tomorrow."
+            },
+            {
+              "text": "I go to the park every day."
+            },
+            {
+              "text": "I went to the park yesterday."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses simple future tense. \"Will go\" shows an action that will happen in the future."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank with the correct future continuous form: 'This time next week, we _____ on the beach.'",
+          "options": [
+            {
+              "text": "will lie"
+            },
+            {
+              "text": "were lying"
+            },
+            {
+              "text": "are lying"
+            },
+            {
+              "text": "will be lying"
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Will be lying\" is the correct future continuous form. It shows an action that will be ongoing at a specific time in the future."
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the sentence in future continuous tense:",
+          "options": [
+            {
+              "text": "It snows in winter."
+            },
+            {
+              "text": "It snowed last night."
+            },
+            {
+              "text": "It will snow tomorrow."
+            },
+            {
+              "text": "It will be snowing all day tomorrow."
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses future continuous tense. \"Will be snowing\" shows an action that will be ongoing for a period of time in the future."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which sentence uses simple future tense?",
+          "options": [
+            {
+              "text": "The plane takes off at 9 AM."
+            },
+            {
+              "text": "The plane took off an hour ago."
+            },
+            {
+              "text": "The plane is taking off now."
+            },
+            {
+              "text": "The plane will take off in 10 minutes."
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses simple future tense. \"Will take off\" shows an action that will happen in the future."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which sentence is not in simple future tense?",
+          "options": [
+            {
+              "text": "We will visit Grandma next weekend."
+            },
+            {
+              "text": "The movie will start at 8 PM."
+            },
+            {
+              "text": "I will be studying when you arrive."
+            },
+            {
+              "text": "They will help you tomorrow."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses future continuous tense (\"will be studying\"), not simple future. The other sentences use simple future to describe actions that will happen in the future."
+        }
+      ]
+    },
+    {
+      "heading": "Present Perfect",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "Sally _____ her homework already.",
+          "options": [
+            {
+              "text": "does"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "has done"
+            },
+            {
+              "text": "will do"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The present perfect tense is used to talk about actions that happened in the past but are connected to the present. We use 'has' or 'have' with the past participle of the verb. In this case, 'has done' is correct because Sally finished her homework at some point in the past."
+        },
+        {
+          "questionNo": 17,
+          "question": "They _____ to the zoo many times.",
+          "options": [
+            {
+              "text": "go"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "have gone"
+            },
+            {
+              "text": "are going"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Have gone' is the correct option because it shows that they visited the zoo multiple times in the past, and they might go again in the future. The present perfect is used for repeated actions that continue up to the present."
+        },
+        {
+          "questionNo": 18,
+          "question": "Jack _____ never _____ sushi before.",
+          "options": [
+            {
+              "text": "has / eaten"
+            },
+            {
+              "text": "have / eat"
+            },
+            {
+              "text": "is / eating"
+            },
+            {
+              "text": "will / eat"
+            }
+          ],
+          "answer": 0,
+          "explanation": "We use the present perfect tense to talk about experiences up to the present moment. 'Has never eaten' is correct because it tells us that Jack hasn't had the experience of eating sushi in his life."
+        },
+        {
+          "questionNo": 19,
+          "question": "The flowers _____ beautifully.",
+          "options": [
+            {
+              "text": "grow"
+            },
+            {
+              "text": "grew"
+            },
+            {
+              "text": "have grown"
+            },
+            {
+              "text": "are growing"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Have grown' is correct because it shows that the process of growing started in the past and we can now see the result. The present perfect is used to talk about changes or developments that we can see in the present."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which sentence uses the present perfect correctly?",
+          "options": [
+            {
+              "text": "We are lived here for ten years."
+            },
+            {
+              "text": "We living here for ten years."
+            },
+            {
+              "text": "We have lived here for ten years."
+            },
+            {
+              "text": "We live here for ten years."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence correctly uses 'have' + the past participle 'lived' to show an ongoing situation."
+        }
+      ]
+    },
+    {
+      "heading": "Past Perfect",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "By the time we arrived, the movie _____.",
+          "options": [
+            {
+              "text": "started"
+            },
+            {
+              "text": "has started"
+            },
+            {
+              "text": "was starting"
+            },
+            {
+              "text": "had started"
+            }
+          ],
+          "answer": 3,
+          "explanation": "The past perfect tense is used to talk about an action that happened before another action in the past. 'Had started' is correct because the movie began before we arrived, and both events are in the past."
+        },
+        {
+          "questionNo": 22,
+          "question": "She _____ her lunch before the bell rang.",
+          "options": [
+            {
+              "text": "had ate"
+            },
+            {
+              "text": "has eaten"
+            },
+            {
+              "text": "had eaten"
+            },
+            {
+              "text": "was eating"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Had eaten' is correct because it shows that the action of eating lunch was completed before another past event (the bell ringing). The past perfect is used to show which of two past actions happened first."
+        },
+        {
+          "questionNo": 23,
+          "question": "The dog _____ the bone before I could take it away.",
+          "options": [
+            {
+              "text": "had eats"
+            },
+            {
+              "text": "had ate"
+            },
+            {
+              "text": "has eaten"
+            },
+            {
+              "text": "had eaten"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'Had eaten' is correct because it shows that the dog finished eating the bone before the action of trying to take it away. The past perfect is used to show that one past action was completed before another began."
+        },
+        {
+          "questionNo": 24,
+          "question": "Which of these sentences shows that something happened before another event in the past?",
+          "options": [
+            {
+              "text": "She had eaten dinner before the movie started."
+            },
+            {
+              "text": "She eats dinner before the movie starts."
+            },
+            {
+              "text": "She is eating dinner now."
+            },
+            {
+              "text": "She will eat dinner soon."
+            }
+          ],
+          "answer": 0,
+          "explanation": "The sentence 'She had eaten dinner before the movie started' is in the past perfect tense, showing that the dinner was eaten before the movie began."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which of these sentences uses the past perfect tense correctly?",
+          "options": [
+            {
+              "text": "She had gone to bed before her parents came home."
+            },
+            {
+              "text": "She is going to bed now."
+            },
+            {
+              "text": "She will go to bed soon."
+            },
+            {
+              "text": "She goes to bed early."
+            }
+          ],
+          "answer": 0,
+          "explanation": "'She had gone to bed before her parents came home' is in the past perfect tense, showing that going to bed happened before her parents arrived."
+        }
+      ]
+    }
+    ,
+    {
+      "heading": "Future Perfect",
+      "questions": [
+        {
+          "questionNo": 26,
+          "question": "By next week, I _____.",
+          "options": [
+            {
+              "text": "will had finish"
+            },
+            {
+              "text": "will have finished"
+            },
+            {
+              "text": "have finished"
+            },
+            {
+              "text": "was have finish"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The future perfect tense is used to talk about actions that will be completed before a specific time in the future. 'Will have finished' is correct because it shows that the exams will be done by next week."
+        },
+        {
+          "questionNo": 27,
+          "question": "By the end of the year, she _____ in this school for five years.",
+          "options": [
+            {
+              "text": "will study"
+            },
+            {
+              "text": "will be studying"
+            },
+            {
+              "text": "will have studied"
+            },
+            {
+              "text": "studies"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Will have studied' is the correct answer because it shows that the action of studying will continue up to a specific point in the future (the end of the year). The future perfect is used to talk about the duration of an action up to a future time."
+        },
+        {
+          "questionNo": 28,
+          "question": "Before you wake up tomorrow, I _____ for my trip.",
+          "options": [
+            {
+              "text": "will have leave"
+            },
+            {
+              "text": "will have left"
+            },
+            {
+              "text": "will have leaving"
+            },
+            {
+              "text": "am leaving"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Will have left' is the right answer because it shows that the action of leaving will happen before another future event (you wake up). The future perfect is used to show which of two future actions will happen first."
+        },
+        {
+          "questionNo": 29,
+          "question": "Identify the future perfect tense sentence:",
+          "options": [
+            {
+              "text": "The dog will have bark at the mailman."
+            },
+            {
+              "text": "The dog will have barked at the mailman before we get home."
+            },
+            {
+              "text": "The dog will have barking at the mailman."
+            },
+            {
+              "text": "The dog barked at the mailman yesterday."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses 'will have' + past participle (barked) to show that the dog's barking will be completed before another future event (us getting home)."
+        },
+        {
+          "questionNo": 30,
+          "question": "By the time we get to the cinema, the movie _____.",
+          "options": [
+            {
+              "text": "will have started"
+            },
+            {
+              "text": "will have start"
+            },
+            {
+              "text": "will have starts"
+            },
+            {
+              "text": "will have starting"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Will have started' is correct because it indicates that the movie will begin before we arrive at the cinema. Both events are in the future, but the 'future perfect' shows which one will happen first."
+        }
+      ]
+    },
+    {
+      "heading": "Synonym",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Which word means almost the same as 'thought'?",
+          "options": [
+            {
+              "text": "Forgot"
+            },
+            {
+              "text": "Believed"
+            },
+            {
+              "text": "Laughed"
+            },
+            {
+              "text": "Jumped"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Believed' is the synonym for 'thought' in this list. When you think of something, you often believe it to be true. Both words are about ideas in your mind."
+        },
+        {
+          "questionNo": 32,
+          "question": "What's another word for 'help'?",
+          "options": [
+            {
+              "text": "Assist"
+            },
+            {
+              "text": "Bother"
+            },
+            {
+              "text": "Ignore"
+            },
+            {
+              "text": "Confuse"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Assist' is a synonym for 'help'. Both words mean to give support or aid to someone. When you assist someone, you are helping them."
+        },
+        {
+          "questionNo": 33,
+          "question": "Fill in the blank with a synonym for 'Admired': She __________ the painting at the museum.",
+          "options": [
+            {
+              "text": "Cherished"
+            },
+            {
+              "text": "Ignored"
+            },
+            {
+              "text": "Disliked"
+            },
+            {
+              "text": "Played"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Cherished' is a synonym for 'Admired,' meaning to value or appreciate highly. So, we can also say 'She cherished the painting at the museum.'"
+        },
+        {
+          "questionNo": 34,
+          "question": "Which word means almost the same as 'noticed'?",
+          "options": [
+            {
+              "text": "Missed"
+            },
+            {
+              "text": "Ignored"
+            },
+            {
+              "text": "Observed"
+            },
+            {
+              "text": "Forgot"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Observed' is the best synonym for 'noticed'. Both words mean to see or become aware of something. When you observe something, you notice it."
+        },
+        {
+          "questionNo": 35,
+          "question": "What's another word for 'worried'?",
+          "options": [
+            {
+              "text": "Happy"
+            },
+            {
+              "text": "Calm"
+            },
+            {
+              "text": "Excited"
+            },
+            {
+              "text": "Concerned"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'Concerned' is a synonym for 'worried'. Both words describe feeling anxious or troubled about something. When you're concerned about something, you're worried about it."
+        }
+      ]
+    }
+,
+{
+  "heading": "Story Elements",
+  "questions": [
+    {
+      "questionNo": 36,
+      "question": "What is the setting of this story?",
+      "options": [
+        {
+          "text": "At school"
+        },
+        {
+          "text": "In a park"
+        },
+        {
+          "text": "At a history museum"
+        },
+        {
+          "text": "At home"
+        }
+      ],
+      "answer": 2,
+      "explanation": "The setting is where the story happens. The story tells us that the children 'went on a school trip to the history museum.' This means the whole adventure takes place in a history museum.",
+      "story":"Lily, Ben, and Mia went on a school trip to the history museum. Inside, they saw huge dinosaur bones and shiny swords from old times. As they explored, a door creaked open, and they found a secret room full of ancient treasures! Suddenly, a statue moved! But it was just the friendly museum guide dressed up. Laughing, they learned fun facts and had the best adventure ever!"
+
+    },
+    {
+      "questionNo": 37,
+      "question": "What is the main and exciting event in the story?",
+      "options": [
+        {
+          "text": "Seeing dinosaur bones"
+        },
+        {
+          "text": "Finding a secret room"
+        },
+        {
+          "text": "Learning about swords"
+        },
+        {
+          "text": "Meeting the museum guide"
+        }
+      ],
+      "answer": 1,
+      "explanation": "The main event is the most important thing that happens in the story. While the children see many things, finding the secret room is the most exciting moment."
+    },
+    {
+      "questionNo": 38,
+      "question": "How did the children feel at the end of the story?",
+      "options": [
+        {
+          "text": "Scared"
+        },
+        {
+          "text": "Bored"
+        },
+        {
+          "text": "Sad"
+        },
+        {
+          "text": "Happy"
+        }
+      ],
+      "answer": 3,
+      "explanation": "The story ends by saying the children 'had the best adventure ever!' This tells us they felt happy and excited about their experience at the museum."
+    },
+    {
+      "questionNo": 39,
+      "question": "What is the plot of the story?",
+      "options": [
+        {
+          "text": "Children learn about dinosaurs"
+        },
+        {
+          "text": "Children get lost in a museum"
+        },
+        {
+          "text": "Children explore a museum and find a secret room"
+        },
+        {
+          "text": "Children meet a real statue"
+        }
+      ],
+      "answer": 2,
+      "explanation": "The plot is what happens in a story from beginning to end. In this story, the children go to a museum, see different exhibits, find a secret room, get a surprise with the 'moving statue,' and learn fun facts. So, exploring the museum and finding the secret room best summarizes the plot."
+    },
+    {
+      "questionNo": 40,
+      "question": "Who are the main characters in this story?",
+      "options": [
+        {
+          "text": "Lily, Ben, and Mia"
+        },
+        {
+          "text": "The museum guide"
+        },
+        {
+          "text": "The dinosaurs"
+        },
+        {
+          "text": "The swords"
+        }
+      ],
+      "answer": 0,
+      "explanation": "The main characters are the people the story is mostly about. In this story, we follow Lily, Ben, and Mia on their adventure. They are mentioned by name, and we hear about what they do and see."
+    }
+  ]
+}
+,
+{
+  "heading": "Interjection",
+  "questions": [
+    {
+      "questionNo": 41,
+      "question": "Which interjection expresses surprise or excitement?",
+      "options": [
+        {
+          "text": "Alas"
+        },
+        {
+          "text": "Oh"
+        },
+        {
+          "text": "Ouch"
+        },
+        {
+          "text": "Phew"
+        }
+      ],
+      "answer": 1,
+      "explanation": "'Oh' is an interjection often used to express surprise or excitement. For example, 'Oh! Look at that beautiful rainbow!' It can show a sudden realization or reaction to something unexpected."
+    },
+    {
+      "questionNo": 42,
+      "question": "What feeling does 'Alas' usually convey?",
+      "options": [
+        {
+          "text": "Joy"
+        },
+        {
+          "text": "Anger"
+        },
+        {
+          "text": "Sadness"
+        },
+        {
+          "text": "Excitement"
+        }
+      ],
+      "answer": 2,
+      "explanation": "'Alas' is an interjection that expresses sadness, grief, or regret. For instance, 'Alas, we lost the game.' It's used when something unfortunate has happened."
+    },
+    {
+      "questionNo": 43,
+      "question": "Which interjection would you use if you stubbed your toe?",
+      "options": [
+        {
+          "text": "Hurray"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Ouch"
+        },
+        {
+          "text": "Dear"
+        }
+      ],
+      "answer": 2,
+      "explanation": "'Ouch' is an interjection used to express sudden pain or discomfort. If you stub your toe, you might say 'Ouch!' to show that it hurts."
+    },
+    {
+      "questionNo": 44,
+      "question": "What does 'Hurray' express?",
+      "options": [
+        {
+          "text": "Boredom"
+        },
+        {
+          "text": "Celebration"
+        },
+        {
+          "text": "Confusion"
+        },
+        {
+          "text": "Tiredness"
+        }
+      ],
+      "answer": 1,
+      "explanation": "'Hurray' is an interjection used to express joy, celebration, or approval. For example, 'Hurray! We won the game!' It's a way to show excitement about something good happening."
+    },
+    {
+      "questionNo": 45,
+      "question": "Which interjection might you use to get someone's attention?",
+      "options": [
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Alas"
+        },
+        {
+          "text": "Phew"
+        },
+        {
+          "text": "Ouch"
+        }
+      ],
+      "answer": 0,
+      "explanation": "'Hey' is commonly used as an interjection to get someone's attention. For instance, 'Hey! Can you help me with this?' It's a casual way to address someone or start a conversation."
+    }
+  ]
+}
+,
+{
+  "heading": "Punctuation",
+  "questions": [
+    {
+      "questionNo": 46,
+      "question": "Which punctuation mark ends a statement?",
+      "options": [
+        {
+          "text": "Question mark"
+        },
+        {
+          "text": "Exclamation mark"
+        },
+        {
+          "text": "Comma"
+        },
+        {
+          "text": "Full stop"
+        }
+      ],
+      "answer": 3,
+      "explanation": "A full stop is used to end a statement or complete sentence. For example: 'The cat is sleeping.' It shows that the thought is finished."
+    },
+    {
+      "questionNo": 47,
+      "question": "What punctuation mark is used to show strong emotion?",
+      "options": [
+        {
+          "text": "Comma"
+        },
+        {
+          "text": "Full stop"
+        },
+        {
+          "text": "Exclamation mark"
+        },
+        {
+          "text": "Question mark"
+        }
+      ],
+      "answer": 2,
+      "explanation": "An exclamation mark is used to show strong emotion, excitement, or emphasis. For instance: 'Watch out!' or 'That's amazing!' It makes the sentence more forceful."
+    },
+    {
+      "questionNo": 48,
+      "question": "Which punctuation mark is used to ask a question?",
+      "options": [
+        {
+          "text": "."
+        },
+        {
+          "text": "?"
+        },
+        {
+          "text": ","
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "answer": 1,
+      "explanation": "A question mark (?) is used at the end of a sentence that asks a question. For example: 'What's your favourite colour?' It shows that the sentence is asking for information."
+    },
+    {
+      "questionNo": 49,
+      "question": "Which sentence uses the correct punctuation?",
+      "options": [
+        {
+          "text": "Where are you going."
+        },
+        {
+          "text": "Where are you going!"
+        },
+        {
+          "text": "Where are you going?"
+        },
+        {
+          "text": "Where are you going,"
+        }
+      ],
+      "answer": 2,
+      "explanation": "This sentence is asking a question, so it should end with a question mark. The question mark shows that the speaker is expecting an answer about where someone is going."
+    },
+    {
+      "questionNo": 50,
+      "question": "Which sentence uses commas correctly?",
+      "options": [
+        {
+          "text": "I like apples oranges and bananas."
+        },
+        {
+          "text": "I like apples, oranges, and bananas."
+        }
+      ],
+      "answer": 1,
+      "explanation": "This sentence uses commas correctly to separate items in a list. The last comma (before 'and') is called the Oxford comma, which is often used for clarity."
+    }
+  ]
+}
+
+    
+    
+    
+  ]
+}
